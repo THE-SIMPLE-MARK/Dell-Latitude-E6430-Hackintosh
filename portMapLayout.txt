@@ -1,0 +1,12 @@
+Chipset Family USB Controller:
+Port 1 2.0 (internal): external left top
+
+3.0 eXtensible Host controller:
+Port 1 2.0 Usb 3 Type A: external right bottom ONLY 2.0
+Port 5 3.0 USb 3 Type A: external right bottom ONLY 3.0
+
+Port 2 2.0 Usb 3 Type A: external right top ONLY 2.0
+Port 6 3.0 Usb 3 Type A: external right top ONLY 3.0
+
+Chipset Family USB Controller (duplicate for some reason):
+One unidentified port marked as active. (left on for now)
