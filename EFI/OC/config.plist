@@ -1241,7 +1241,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02206100QXF16PAD</string>
+			<string>REPLACE_WITH_LMB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1253,11 +1253,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro10,2</string>
+			<string>MacBookPro11,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02H7PZMDR53</string>
+			<string>REPLACE_WITH_SERIAL_NUMBER</string>
 			<key>SystemUUID</key>
-			<string>50BA5193-629F-45CC-98EE-0263C3B10892</string>
+			<string>REPLACE_WITH_UUID</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
