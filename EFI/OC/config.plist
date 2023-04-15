@@ -1337,13 +1337,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02308902GUFH31JC</string>
+			<string>PLACE_BOARD_SERIAL_HERE</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>FZmBNgIY</data>
+			<data>PLACE_ROM_HERE</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1351,9 +1351,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro11,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02K99YNFH00</string>
+			<string>PLACE_SERIAL_HERE</string>
 			<key>SystemUUID</key>
-			<string>3E21ED4C-416A-4666-A1E1-0898E871FACC</string>
+			<string>PLACE_SMUUID_HERE</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
