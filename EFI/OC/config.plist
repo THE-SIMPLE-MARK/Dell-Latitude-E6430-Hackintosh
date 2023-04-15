@@ -357,6 +357,10 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>AwBmAQ==</data>
+				<key>framebuffer-patch-enable</key>
+				<integer>1</integer>
+				<key>framebuffer-fbmem</key>
+				<data>AACAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
