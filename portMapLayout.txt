@@ -9,4 +9,4 @@ Port 2 | 2.0 Usb 3 Type A: external right top ONLY 2.0
 Port 6 | 3.0 Usb 3 Type A: external right top ONLY 3.0
 
 Chipset Family USB Controller (duplicate for some reason):
-One unidentified port marked as active. (left on for now)
+Port 12 | 3.0 Usb 3 Type A: external right eSATA / USB 2.0 port (the wide one)
