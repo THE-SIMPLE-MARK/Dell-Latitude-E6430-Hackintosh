@@ -1250,7 +1250,7 @@
 			<key>PasswordSalt</key>
 			<data></data>
 			<key>ScanPolicy</key>
-			<integer>0</integer>
+			<integer>17760515</integer>
 			<key>SecureBootModel</key>
 			<string>Default</string>
 			<key>Vault</key>
@@ -1467,9 +1467,9 @@
 			<false/>
 			<key>AppleFramebufferInfo</key>
 			<false/>
-			<key>AppleImageConversion</key>
-			<false/>
 			<key>AppleImg4Verification</key>
+			<false/>
+			<key>AppleImageConversion</key>
 			<false/>
 			<key>AppleKeyMap</key>
 			<false/>
