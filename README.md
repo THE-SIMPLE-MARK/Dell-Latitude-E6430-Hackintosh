@@ -63,6 +63,10 @@ After consulting with a couple of experienced people about this matter in the [r
 
 This OpenCore installation has only been configured with the most basic of security measures. It is up to you wether you want to add more security. You can read the [security part from Dortania's post install guide](https://dortania.github.io/OpenCore-Post-Install/universal/security.html).
 
+### Showing OpenCore GUI (Recovery Mode)
+
+By default there is no password protection for OpenCore's GUI. Which means anyone can access it *if they know the hotkey and when to press it*. You need to hold down the ESC (escape) key from when the Dell logo shows and when it dissapears. You should then be greeted with a menu where you can boot into recovery mode, clear NVRAM or continue booting. 
+
 ## Updates
 
 Updates I've made over time can be found here.
