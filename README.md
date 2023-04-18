@@ -59,6 +59,10 @@ The original wireless card in my model is the Dell DW 1540. This chipset was nev
 
 After consulting with a couple of experienced people about this matter in the [r/hackintosh Paradise Discord](https://discord.gg/u8V7N5C) we came to the conclusion that there is only one chipset which has good native support and is kind of available online in my region (Hungary) for a relatively good price and specs. That is the BCM94360HMB chipset. Cards using this chipset have support for 2.4Ghz & 5Ghz with Bluetooth included. **I have recently ordered this card to test it out. I will update this part as soon as I get it working.** 
 
+## Security Notes
+
+This OpenCore installation has only been configured with the most basic of security measures. It is up to you wether you want to add more security. You can read the [security part from Dortania's post install guide](https://dortania.github.io/OpenCore-Post-Install/universal/security.html).
+
 ## Updates
 
 Updates I've made over time can be found here.
