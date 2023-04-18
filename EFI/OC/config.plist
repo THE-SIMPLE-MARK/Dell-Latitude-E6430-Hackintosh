@@ -1179,7 +1179,7 @@
 			<key>PickerVariant</key>
 			<string>Auto</string>
 			<key>PollAppleHotKeys</key>
-			<false/>
+			<true/>
 			<key>ShowPicker</key>
 			<true/>
 			<key>TakeoffDelay</key>
@@ -1234,7 +1234,7 @@
 			<key>ApECID</key>
 			<integer>0</integer>
 			<key>AuthRestart</key>
-			<false/>
+			<true/>
 			<key>BlacklistAppleUpdate</key>
 			<true/>
 			<key>DmgLoading</key>
@@ -1488,7 +1488,7 @@
 			<key>FirmwareVolume</key>
 			<true/>
 			<key>HashServices</key>
-			<false/>
+			<true/>
 			<key>OSInfo</key>
 			<false/>
 			<key>UnicodeCollation</key>
@@ -1505,7 +1505,7 @@
 			<key>EnableVmx</key>
 			<false/>
 			<key>ExitBootServicesDelay</key>
-			<integer>0</integer>
+			<integer>3000</integer>
 			<key>ForceOcWriteFlash</key>
 			<false/>
 			<key>ForgeUefiSupport</key>
