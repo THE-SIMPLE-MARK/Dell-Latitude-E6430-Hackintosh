@@ -57,7 +57,11 @@ The original wireless card in my model is the Dell DW 1540. This chipset was nev
 
 #### My personal solution
 
-After consulting with a couple of experienced people about this matter in the [r/hackintosh Paradise Discord](https://discord.gg/u8V7N5C) we came to the conclusion that there is only one chipset which has good native support and is kind of available online in my region (Hungary) for a relatively good price and specs. That is the BCM94360HMB chipset. Cards using this chipset have support for 2.4Ghz & 5Ghz with Bluetooth included. **I have recently ordered this card to test it out. I will update this part as soon as I get it working.** 
+After consulting with a couple of experienced people about this matter in the [r/hackintosh Paradise Discord](https://discord.gg/u8V7N5C) we came to the conclusion that there is only one chipset which has good native support and is kind of available online in my region (Hungary) for a relatively good price and specs. That is the BCM94360HMB chipset. Cards using this chipset have support for 2.4Ghz & 5Ghz with Bluetooth included. **This chipset also happens to have full support on the Dell Latitude E6430 models.**
+
+> ⚠️ Make sure that the antenna connector sizes match in your laptop!
+
+I ran into that exact issue when ordering my new network card. Fortunately I was aple to tape it down securely enough so that the bigger antenna cables make contact with the smaller antenna ports on the card.
 
 ## Security Notes
 
